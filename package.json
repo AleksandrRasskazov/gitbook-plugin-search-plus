@@ -1,5 +1,5 @@
 {
-  "name": "gitbook-plugin-search-plus-ex",
+  "name": "gitbook-plugin-search-plus-normal",
   "version": "1.0.5",
   "description": "gitbook powerful search plugin",
   "main": "index.js",
