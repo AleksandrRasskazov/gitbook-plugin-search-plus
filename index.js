@@ -9,7 +9,7 @@ module.exports = {
   book: {
     assets: './assets',
     js: [
-      'jquery.mark.min.js',
+      'jquery.mark.js',
       'search.js'
     ],
     css: [
